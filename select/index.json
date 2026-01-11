@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MOONLIGHT SUNRISE",
+  "base_artist": "TWICE",
+  "createdAt": "2026-01-11T07:24:37.358547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonlight/ Sunrise",
+      "artist": "Rope and Ladder",
+      "has_synced": true,
+      "path": "select/02_Moonlight__Sunrise_Rope_and_Ladder.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Club remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_MOONLIGHT_SUNRISE_(Club_remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (House remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_MOONLIGHT_SUNRISE_(House_remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "artist": "TWICE feat. Jonas Blue",
+      "has_synced": true,
+      "path": "select/06_MOONLIGHT_SUNRISE_(Jonas_Blue_Remix)_TWICE_feat._Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "artist": "TWICE & Jonas Blue",
+      "has_synced": true,
+      "path": "select/07_MOONLIGHT_SUNRISE_(Jonas_Blue_Remix)_TWICE_&_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/08_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "artist": "TWICE, Jonas Blue",
+      "has_synced": true,
+      "path": "select/09_MOONLIGHT_SUNRISE_(Jonas_Blue_Remix)_TWICE,_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (R&B remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_MOONLIGHT_SUNRISE_(R&B_remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/11_MOONLIGHT_SUNRISE_(Jonas_Blue_remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/12_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/13_MOONLIGHT_SUNRISE_(Jonas_Blue_Remix)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/14_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "artist": "Jonas Blue",
+      "has_synced": true,
+      "path": "select/15_MOONLIGHT_SUNRISE_(Jonas_Blue_Remix)_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/16_MOONLIGHT_SUNRISE_TWICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOONLIGHT SUNRISE",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_MOONLIGHT_SUNRISE_TWICE.txt"
+    }
+  ]
+}
